@@ -45,6 +45,9 @@ typings/
 # Optional npm cache directory
 .npm
 
+# Optional yarn cache directory
+.yarn
+
 # Optional eslint cache
 .eslintcache
 
@@ -60,8 +63,7 @@ typings/
 # dotenv environment variables file
 .env
 
-server/dist
-client/dist
+dist
 public/static
 public/asset-manifest.json
 public/favicon.ico
